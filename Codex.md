@@ -1,7 +1,3 @@
-*This is a template for you to replicate and use. Fill in your own
-information! Ignore the warning above; I won’t be merging your version
-of the document in to this one.*
-
 Codex Vitae
 ===========
 
@@ -17,20 +13,22 @@ tools, and inspiration that have been helpful to me.
 How to Use This Codex
 ---------------------
 
-**If you are (YOUR NAME):**\
+**If you are David**
+
 - Develop a habit of using the Codex as a repository for beliefs that
-develop throughout the year.\
+develop throughout the year.
 - Consider doing a monthly review of whether my life is in alignment
 with values and beliefs. If not, should my behavior change or have my
-understanding and values changed?\
+understanding and values changed?
 - Do a yearly review in January of the entire document, editing places
 where beliefs have changed. Expect beliefs and tactics to change — don’t
 hold on to them too rigidly.
 
-**If you are not (YOUR NAME):**\
+**If you are not David:**
+
 - Read this with the understanding that you are different than
-Terrie— the way she lives her life is not the way you should live
-yours.\
+David —  the way she lives her life is not the way you should live
+yours.
 - Consider creating your own Codex Vitae. Feel free to copy anything
 here that is helpful.
 
