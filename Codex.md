@@ -2,7 +2,7 @@ Codex Vitae
 ===========
 
 ![Dresden
-Codex](https://upload.wikimedia.org/wikipedia/commons/d/d6/Dresden_Codex_pp.58-62_78.jpg)\
+Codex](https://upload.wikimedia.org/wikipedia/commons/d/d6/Dresden_Codex_pp.58-62_78.jpg)
 This Codex Vitae, or “book of life”, is a collection of my beliefs and
 concepts that inform my decisions and life. It is a work in constant
 flux; as my understanding changes, so will my beliefs. The main purpose
@@ -32,7 +32,6 @@ yours.
 - Consider creating your own Codex Vitae. Feel free to copy anything
 here that is helpful.
 
-![](https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/images/maroon-horizontal-rule.jpg/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true)
 
 In General
 ==========
@@ -47,7 +46,6 @@ Principles
 
 Fundamentals that guide my life.
 
-![](https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/images/maroon-horizontal-rule.jpg/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true)
 
 Selfcare
 ========
@@ -106,7 +104,6 @@ Relationships
 
 ### Aspirations
 
-![](https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/images/maroon-horizontal-rule.jpg/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true)
 
 Material World
 ==============
@@ -138,7 +135,6 @@ Consumerism
 
 ### Aspirations
 
-![](https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/images/maroon-horizontal-rule.jpg/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true)
 
 Work
 ====
@@ -179,7 +175,6 @@ Passion Projects
 
 ### Aspirations
 
-![](https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/images/maroon-horizontal-rule.jpg/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true)
 
 Philosophy
 ==========
@@ -211,7 +206,7 @@ Predictions
 
 ### Aspirations
 
-![](https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/images/maroon-horizontal-rule.jpg/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true)
+
 
 Influences
 ==========
@@ -236,7 +231,6 @@ Inspirational Lives
 
 People who’s lives or work inspire me in mine.
 
-![](https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/https://www.penflip.com/terrie/codex-vitae-template/blob/master/images/maroon-horizontal-rule.jpg/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true/?raw=true)
 
 My Writing
 ==========
